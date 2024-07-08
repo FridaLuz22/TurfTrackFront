@@ -13,8 +13,6 @@ export class AppComponent {
 
   changeTitle(){
     this.title = 'Frida Luz';
-
-
   }
 
   ngOnInit(){
